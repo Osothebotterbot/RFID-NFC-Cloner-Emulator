@@ -1,4 +1,5 @@
 # RFID/NFC Cloner & Emulator — Pro Edition
+#### Author: Bocaletto Luca
 
 An industrial-grade Arduino solution to read, clone, emulate and log MIFARE Classic & NTAG2xx cards.  
 Adds serial menu, SD-card logging, buzzer alerts, multi-key support and timestamped dumps.
